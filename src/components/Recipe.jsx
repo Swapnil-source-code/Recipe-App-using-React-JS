@@ -46,11 +46,8 @@ function Recipe() {
           value={userInp}
           onChange={(e) => setUserInp(e.target.value)}
           />
-          {/* <input type="text"  id="user-inp" /> */}
           <button id="search-btn" onClick={handleSearch}>Search</button>
-          {/* <button id="search-btn">Search</button> */}
         </div>
-        {/* <div id="result" /> */}
           <div id="result">
             {error && <h3>{error}</h3>}
             {mealData && (
