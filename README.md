@@ -1,8 +1,29 @@
-# React + Vite
+# Recipe-App-using-React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 🔗 Live Demo
+https://recipe-app-developed-in-react.netlify.app
 
-Currently, two official plugins are available:
+### 📸 Screenshots
+![My application screenshot](/src/assets/ra-screenshot.JPG)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+### 🛠 Tech Used
+HTML, CSS, JavaScript, React.
+
+### ✨ Features
+- Shows Food dishes Recipes
+- Responsive design
+- Cross-browser support
+- Clean UI
+
+### 📂 How to Run
+```bash
+ npm install 
+```
+```bash
+ npm start
+```
+ or
+```bash
+ npm run dev
+```
